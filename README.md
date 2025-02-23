@@ -1,2 +1,1 @@
-# Allowance-system
-A digital medical allowance system that prevents fraud by replacing paper bills with secure, verifiable online transactions.
+This project is built using Bubble.io, a no-code platform. Since Bubble does not provide direct code access, the application is hosted and managed within the Bubble environment
